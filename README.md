@@ -14,6 +14,7 @@ The pipeline is structured in six stages:
 | 4️⃣ | [`4-XHMM.sh`](./4-XHMM.sh) | CNV calling using XHMM from BAM alignments |
 | 5️⃣ | [`5-Combine_VCFs.sh`](./5-Combine_VCFs.sh) | Merging overlapping SNVs from GATK & DeepVariant with CNVs |
 | 6️⃣ | [`6-Analysis.sh`](./6-Analysis.sh) | Association testing using Regenie (single-variant & gene-wise) |
+| 6️⃣ | [`7-Meta-analysis.R`](./7-Meta-analysis.R) | OR calculation and meta-analysis |
 
 ---
 
