@@ -81,7 +81,8 @@ Each script contains `WORKDIR` and `ASSEMBLY` placeholders and account was omite
 ## 📬 Results
 
 The pre-print of this study is availaible at:
-https://www.medrxiv.org/content/10.1101/2025.06.05.25329059v1.article-metrics
+
+https://www.medrxiv.org/content/10.1101/2025.06.05.25329059v1
 
 ---
 
